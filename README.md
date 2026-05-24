@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Het Patel 👋
 
-<!--
-**hetptl1433/hetptl1433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate student focused on software development, machine learning, LLMs, and full-stack web applications.
 
-Here are some ideas to get you started:
+I like building practical systems that connect clean backend logic, useful frontend interfaces, and real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Software development and full-stack applications
+- LLM engineering and time-series forecasting research
+- Machine learning pipelines using Python and PyTorch
+- Product/QA analytics dashboards and real-world engineering workflows
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, Java, SQL, C#, C/C++  
+**Frontend:** React, Next.js, Tailwind CSS, HTML/CSS  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL, Socket.IO  
+**Databases:** MongoDB, MongoDB Atlas, PostgreSQL, SQL Server  
+**ML/Data:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, transformers, Hugging Face  
+**Tools:** Git, GitHub, Docker, AWS, Vercel, Linux, Postman, VS Code  
+
+## 📌 Featured Projects
+
+### CryptexLLM
+LLM-powered time-series forecasting project using Python, PyTorch, transformer-based modeling, and BTC market data.
+
+### E-Motel
+Full-stack motel management platform using React, Node.js, Express, MongoDB, Socket.IO, JWT authentication, AWS, and Vercel.
+
+### Credit Card Fraud Detection
+Transformer-based fraud detection project using PyTorch and scikit-learn with ROC-AUC, recall, accuracy, and test-loss evaluation.
+
+### Real Estate Parcel Manager
+Interactive property and parcel visualization app using React, Mapbox GL, and GraphQL.
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/hetptldev
+- Portfolio: https://folio-pearl-delta.vercel.app
+- Email: hetptl143324@gmail.com
